@@ -31,9 +31,9 @@
         /** The name of the local database for WordPress */
         define('DB_NAME', 'wordpress_db');
         /** Local environment MySQL login info */
-        define('DB_HOST', '127.0.0.1');
+        define('DB_HOST', '216.239.32.21');
         define('DB_USER', 'root');
-        define('DB_PASSWORD', 'password');
+        define('DB_PASSWORD', 'mody1986');
     }
 
     // Determine HTTP or HTTPS, then set WP_SITEURL and WP_HOME
@@ -61,14 +61,14 @@
      *
      * @since 2.6.0
      */
-    define('AUTH_KEY',         'put your unique phrase here');
-    define('SECURE_AUTH_KEY',  'put your unique phrase here');
-    define('LOGGED_IN_KEY',    'put your unique phrase here');
-    define('NONCE_KEY',        'put your unique phrase here');
-    define('AUTH_SALT',        'put your unique phrase here');
-    define('SECURE_AUTH_SALT', 'put your unique phrase here');
-    define('LOGGED_IN_SALT',   'put your unique phrase here');
-    define('NONCE_SALT',       'put your unique phrase here');
+    define('AUTH_KEY',         'R^Nd;x{7^_uzME!+Nw[4-B]f|-R2nbX1uut(jVg+JaCIm+O@GMisbh0jQ?2iK6bu');
+    define('SECURE_AUTH_KEY',  'A<09g&M`?-6DMnW0;Awv{OOFuOeO+1sad9K!kT=- yho*t1zx3iYq:-%7~067+:&');
+    define('LOGGED_IN_KEY',    'lb8F6P:ff9fRvP@y[b@7SEC0q|/hv-C,g(cWat3*PSCxm.|hh7843K5e>+*9`MLF');
+    define('NONCE_KEY',        'Lr$<m+/>?TF{Ru2C9S%uBzX0 u.@AqHU~uQJlA~x-Jx>r!Td~Nci~r>`+|uWp+;l');
+    define('AUTH_SALT',        '+?WK[9v%B)}-o59a`1|I0 ?Tc!6?C=r7[&#p(2ld/y/!~Tm5.~---=Z=?)5EJTg,');
+    define('SECURE_AUTH_SALT', '{x +D@.NkK8z$J`vhlG{aeBxAnl-y^y3R|64-|GgF)IuAe@,|).c<$e|VYIEfIFU');
+    define('LOGGED_IN_SALT',   'k|n;Y|;VV)a:+luux8xoFM?oMc_tu/A<LP8mw@ -=-#zn5:}nohq}cmD9HJ4wx2J');
+    define('NONCE_SALT',       'f|}j|w|Qe#9M/9nxbvzXH}k?nB=L1UfuLbmy ~i7gQZ#d>9( a/QERAOS,aa.q<A');
 
     /**#@-*/
 
